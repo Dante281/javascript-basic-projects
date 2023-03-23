@@ -44,3 +44,5 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 27. Pagination
 28. Wikipedia
 29. Comfy Sloth
+
+Build 15 JavaScript Projects - Vanilla JavaScript Course - https://www.youtube.com/watch?v=3PHXvlpOkf4
